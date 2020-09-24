@@ -23,5 +23,7 @@ _yardoc
 doc/
 .idea/
 
+/.vscode
+
 # Vagrant artifacts
 ubuntu-*-console.log
